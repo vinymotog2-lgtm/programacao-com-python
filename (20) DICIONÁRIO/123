@@ -1,1 +1,11 @@
+personagens = [
+    {"nome": "Bob Esponja", "idade": 40, "categoria": "desenho"},
+    {"nome": "Moranguinho", "idade": 6, "categoria": "desenho"},
+    {"nome": "Harry Potter", "idade": 15, "categoria": "ficção"},
+]
 
+for personagem in personagens:
+    print("Nome: ", personagem["nome"] )
+    print("Idade: ", personagem["idade"] )
+    print("Categoria: ", personagem["categoria"] )
+    print()
