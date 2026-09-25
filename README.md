@@ -2,6 +2,6 @@
 ## Sobre projeto
 **Python**
 *itálico*
--lista
--lista
+- lista
+- lista
 ```print("Olá, mundo")```  
